@@ -250,7 +250,7 @@ int main(int argc, char *argv[]) {
 
 			switch (playerInput) {
 			case 'f':
-			case 'F':
+			case 'F': 
 				game_mode = MODE_FLAG;
 				do {
 					print_table();
